@@ -1,0 +1,70 @@
+<Sentence id="1">
+1	((	NP	<fs af='भारत,n,m,sg,3,o,0,0' head='भारत'>
+1.1	भारत	NNP	<fs af='भारत,n,m,sg,3,o,0,0' name='भारत'>
+1.2	में	PSP	<fs af='में,psp,,,,,,' name='में'>
+	))		
+2	((	NP	<fs af='कोरोना,unk,,,,,,' poslcat='NM'  head='कोरोना'>
+2.1	कोरोना	NNP	<fs af='कोरोना,unk,,,,,,' poslcat='NM'  name='कोरोना'>
+	))		
+3	((	NP	<fs af='छोरोन,unk,,,,,,' poslcat='NM'  head='छोरोन'>
+3.1	(	SYM	<fs af='(,punc,,,,,,' name='('>
+3.2	छोरोन	NNPC	<fs af='छोरोन,unk,,,,,,' name='छोरोन'  poslcat='NM'>
+3.3	)	SYM	<fs af='),punc,,,,,,' name=')'>
+	))		
+4	((	FRAGP	
+4.1	की	PSP	<fs af='का,psp,f,sg,,d,का,kA' name='की'>
+	))		
+5	((	NP	<fs af='आहट,n,f,sg,3,d,0,0' head='आहट'>
+5.1	आहट	NN	<fs af='आहट,n,f,sg,3,d,0,0' name='आहट'>
+	))		
+6	((	VGNF	<fs af='हो,v,m,pl,any,,ता,wA' head='होते'>
+6.1	होते	VM	<fs af='हो,v,m,pl,any,,ता,wA' name='होते'>
+6.2	ही	RP	<fs af='ही,avy,,,,,,' name='ही'>
+	))		
+7	((	NP	<fs af='यह,pn,any,sg,3,o,का,kA' head='इसका'  agr_num='sg'  agr_gen='m'  agr_cas='d'>
+7.1	इसका	PRP	<fs af='यह,pn,any,sg,3,o,का,kA' agr_gen='m'  agr_cas='d'  name='इसका'  agr_num='sg'>
+	))		
+8	((	NP	<fs af='असर,n,m,sg,3,d,0,0' head='असर'>
+8.1	बुरा	JJ	<fs af='बुरा,adj,m,sg,,d,,' name='बुरा'>
+8.2	असर	NN	<fs af='असर,n,m,sg,3,d,0,0' name='असर'>
+	))		
+9	((	VGF	<fs af='दिखा,v,f,sg,any,,या,yA' head='दिखाई'>
+9.1	दिखाई	VM	<fs af='दिखा,v,f,sg,any,,या,yA' name='दिखाई'>
+9.2	देने	VAUX	<fs af='दे,v,m,pl,any,,ना,nA' name='देने'  poslcat='NM'>
+9.3	लगा	VAUX	<fs af='लग,v,m,sg,any,,या,yA' poslcat='NM'  name='लगा'>
+9.4	है	VAUX	<fs af='है,v,any,sg,2,,है,hE' name='है'  poslcat='NM'>
+9.5	.	SYM	<fs af='.,punc,,,,,,' name='.'>
+	))		
+</Sentence>
+ 
+
+ 
+
+<Sentence id="1">
+1	((	VGNF	<fs af='बीत,v,m,pl,any,,या,yA' head='बीते'>
+1.1	बीते	VM	<fs af='बीत,v,m,pl,any,,या,yA' name='बीते'>
+	))		
+2	((	NP	<fs af='दिन,n,m,sg,3,d,0,0' head='दिन'>
+2.1	कारोबारी	NN	<fs af='कारोबारी,n,m,sg,3,d,0,0' name='कारोबारी'>
+2.2	दिन	NN	<fs af='दिन,n,m,sg,3,d,0,0' name='दिन'>
+	))		
+3	((	NP	<fs af='बुधवार,n,m,sg,3,o,0,0' head='बुधवार'>
+3.1	बुधवार	NNP	<fs af='बुधवार,n,m,sg,3,o,0,0' name='बुधवार'>
+3.2	को	PSP	<fs af='को,psp,,,,,,' name='को'>
+	))		
+4	((	NP	<fs af='बाजार,n,m,sg,3,d,0,0' head='बाजार'>
+4.1	शेयर	NNC	<fs af='शेयर,n,m,sg,3,d,0,0' name='शेयर'>
+4.2	बाजार	NN	<fs af='बाजार,n,m,sg,3,d,0,0' name='बाजार'>
+	))		
+5	((	RBP	<fs af='अचानक,adv,,,,,,' head='अचानक'>
+5.1	अचानक	RB	<fs af='अचानक,adv,,,,,,' name='अचानक'>
+	))		
+6	((	VGNF	<fs af='भरभरा,v,any,any,any,,कर,kara' head='भरभराकर'>
+6.1	भरभराकर	VM	<fs af='भरभरा,v,any,any,any,,कर,kara' name='भरभराकर'>
+	))		
+7	((	VGF	<fs af='गिर,v,any,any,any,,0,0' head='गिर'>
+7.1	गिर	VM	<fs af='गिर,v,any,any,any,,0,0' name='गिर'>
+7.2	गया	VAUX	<fs af='जा,v,m,sg,any,,या1,yA1' poslcat='NM'  name='गया'>
+7.3	.	SYM	<fs af='.,punc,,,,,,' name='.'>
+	))		
+</Sentence>
